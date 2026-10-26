@@ -13,3 +13,4 @@ sources:
       - name: dim_store
       - name: dim_employee
       - name: fact_returns
+      - name: items
